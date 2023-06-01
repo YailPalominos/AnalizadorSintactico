@@ -1,2 +1,3 @@
-# Analizador Lexico
- Analizador lexico programado en java
+# Analizador Sintactico
+ Analizador sintactico programado en java
+ utilizando expresiones regulares
